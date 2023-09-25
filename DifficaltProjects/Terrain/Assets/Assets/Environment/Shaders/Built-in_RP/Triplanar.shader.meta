@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e61aeb7487ccb5e4fb6d45036e33fb7b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239262
+  packageName: Etra's Starter Assets - First Person/Third Person Character Controller
+  packageVersion: 1.2.0
+  assetPath: Assets/Assets/Environment/Shaders/Built-in_RP/Triplanar.shader
+  uploadId: 599058
